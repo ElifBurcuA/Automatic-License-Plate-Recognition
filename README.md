@@ -1,1 +1,4 @@
 # Automatic-License-Plate-Recognition
+
+## About Dataset
+In this study, the <a href="https://www.kaggle.com/datasets/andrewmvd/car-plate-detection" target="_blank"> Car License Plate Detection</a> dataset was used in Kaggle. This dataset contains 433 images. An additional dataset called Baza Slika was used to increase the data in the dataset. The images in this dataset were taken with the OLYMPUS CAMEDIA C-2040ZOOM digital camera. There are 510 images in the data set, and 453 of these images were used in the project. After the images from the two datasets, the number of images processed in the project is 710. There is an xml file for each image in the dataset from Kaggle, the contents of the xml files are used to detect the plate location. It was created because there is no xml image file in the basic Slika dataset.
