@@ -37,7 +37,7 @@ In this project, each hyperparameter optimization is a test. Various hyperparame
 | Learning Rate | 0.0005 | 
 
 
-#### Conclusion
-By using the deep learning model, license plate regions were found in the vehicle images, respectively, and the plate was converted to text. In addition, a database system was created and a web application was developed to be used by security personnel.
+### Conclusion
+By using the deep learning model, license plate regions were found in the vehicle images, respectively, and the plate was converted to text. In addition, a database system was created and a web application was developed.
 
 
