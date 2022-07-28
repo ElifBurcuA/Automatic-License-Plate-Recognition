@@ -4,7 +4,6 @@ import numpy as np
 import tensorflow as tf
 import pytesseract as pt
 
-#pt.pytesseract.tesseract_cmd = r'C:\Program Files\Tesseract-OCR\tesseract.exe'
 pt.pytesseract.tesseract_cmd = r'C:\Tesseract-OCR\tesseract.exe'
 os.environ['TESSDATA_PREFIX'] = 'C:/Tesseract-OCR/tessdata'
 
